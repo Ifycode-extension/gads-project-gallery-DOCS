@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Ifycode",
+      "name": "Obiagba Mary Ifeoma",
+      "avatar_url": "https://avatars.githubusercontent.com/u/45185388?v=4",
+      "profile": "https://github.com/Ifycode",
+      "contributions": [
+        "mentoring"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "doc",
+  "projectOwner": "gads-projects",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
