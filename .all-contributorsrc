@@ -1,6 +1,6 @@
 {
   "files": [
-    "README.md"
+    "contributor.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -15,7 +15,7 @@
       ]
     }
   ],
-  "contributorsPerLine": 7,
+  "contributorsPerLine": 5,
   "projectName": "doc",
   "projectOwner": "gads-projects",
   "repoType": "github",
