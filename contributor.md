@@ -11,7 +11,7 @@ Thanks to these wonderful people for improving the GADS project gallery and doc 
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/Ifycode"><img src="https://avatars.githubusercontent.com/u/45185388?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Obiagba Mary Ifeoma</b></sub></a><br /><a href="#mentoring-Ifycode" title="Mentoring">🧑‍🏫</a></td>
+    <td align="center"><a href="https://github.com/Ifycode"><img src="https://avatars.githubusercontent.com/u/45185388?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Obiagba Mary Ifeoma</b></sub></a><br /><a href="#mentoring-Ifycode" title="Mentoring">🧑‍🏫</a> <a href="https://github.com/gads-projects/doc/commits?author=Ifycode" title="Documentation">📖</a></td>
   </tr>
 </table>
 
