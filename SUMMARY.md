@@ -3,6 +3,11 @@
 * [GADS project gallery](README.md)
 * [About the project](about-the-project.md)
 
+## contribution guide
+
+* [Contributing guidelines](contribution-guide/contributing.md)
+* [Video tutorials](contribution-guide/video-tutorials.md)
+
 ## gads contributors
 
 * [All contributors](https://github.com/gads-projects/doc/blob/main/contributor.md)
