@@ -14,6 +14,15 @@
         "mentoring",
         "doc"
       ]
+    },
+    {
+      "login": "AJ-Stiles",
+      "name": "AJ-Stiles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86663712?v=4",
+      "profile": "https://github.com/AJ-Stiles",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 5,
