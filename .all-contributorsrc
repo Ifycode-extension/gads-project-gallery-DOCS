@@ -41,6 +41,15 @@
       "contributions": [
         "infra"
       ]
+    },
+    {
+      "login": "kaylezy",
+      "name": "Olakunle Hassan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31227288?v=4",
+      "profile": "https://github.com/kaylezy",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 5,
