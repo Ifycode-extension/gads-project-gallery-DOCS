@@ -1,6 +1,6 @@
 # GADS project gallery
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](https://github.com/gads-projects/doc/blob/main/contributor.md) 
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](https://github.com/gads-projects/doc/blob/main/contributor.md) 
 
 ![](.gitbook/assets/google-africa-developer-scholarship-gads-program-2020-1-1-.png)
 
