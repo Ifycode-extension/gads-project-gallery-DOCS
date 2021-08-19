@@ -16,6 +16,15 @@
       ]
     },
     {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
       "login": "AJ-Stiles",
       "name": "AJ-Stiles",
       "avatar_url": "https://avatars.githubusercontent.com/u/86663712?v=4",
@@ -31,15 +40,6 @@
       "profile": "https://github.com/Blazing-Mike",
       "contributions": [
         "doc"
-      ]
-    },
-    {
-      "login": "all-contributors",
-      "name": "All Contributors",
-      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
-      "profile": "https://allcontributors.org",
-      "contributions": [
-        "infra"
       ]
     },
     {
