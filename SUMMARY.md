@@ -14,6 +14,7 @@
 
 ## project gallery
 
+* [Gallery home](https://github.com/gads-projects/gallery)
 * [GADS 2020 projects](https://github.com/gads-projects/GADS-projects/tree/main/gads-2020)
 * [GADS 2021 projects](https://github.com/gads-projects/GADS-projects/tree/main/gads-2021)
 
