@@ -12,6 +12,15 @@ Once you have made a contribution, you will be added to the [GADS contributors](
 * Suggest and/or add content, sections or page to the GADS project gallery doc
 * Report and fix broken links, grammatical or typographical errors in any of the GADS project gallery doc
 
+
+## Adding your project to the gallery 
+Please note that the projects you add MUST be projects made during the GADS program. Projects can be submitted by learners or mentors, can be an individual project or team project and can be projects given by the GADS team or your peer learning group mentors. Feel free to add your projects to the gallery if your projects meet the above stated criteria: 
+* Fork the [the project gallery repo](https://github.com/gads-projects/gallery) (if you haven't) 
+* From your fork, [create a new branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) and give it your preferred name
+* Edit the files and add your project in your fork following the instructions on the [gallery repo readme](https://github.com/gads-projects/gallery). Make sure you are in the new branch you created when editing
+* [Send a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+
+
 ## Editing the project gallery doc 
 On the Gitbook doc, click on the the edit on Github button at the top right corner of a page to take you directly to the page to edit on Github. 
 * Fork the the GADS project gallery doc repo (if you haven't)
