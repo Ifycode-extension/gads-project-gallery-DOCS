@@ -1,5 +1,7 @@
 # Video tutorials
 
+Youtube video embed\(s\) go here
+
 ## General instructions for making a video tutorial
 
 * Tutorial must be beginner friendly
