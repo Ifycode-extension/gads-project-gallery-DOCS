@@ -14,6 +14,51 @@
         "mentoring",
         "doc"
       ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "infra"
+      ]
+    },
+    {
+      "login": "AJ-Stiles",
+      "name": "AJ-Stiles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86663712?v=4",
+      "profile": "https://github.com/AJ-Stiles",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Blazing-Mike",
+      "name": "Michael Adebambo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80793630?v=4",
+      "profile": "https://github.com/Blazing-Mike",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "kaylezy",
+      "name": "Olakunle Hassan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31227288?v=4",
+      "profile": "https://github.com/kaylezy",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "KeithanPhilander",
+      "name": "Keithan Philander",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29425128?v=4",
+      "profile": "http://keithanphilander.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 5,
