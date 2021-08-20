@@ -1,5 +1,7 @@
 # Video tutorials
+
 ## General instructions for making a video tutorial
+
 * Tutorial must be beginner friendly
 * Use a laptop preferably, not phone
 * Audio must be audible
