@@ -1,5 +1,12 @@
 # GADS project gallery
 
+## Team projects format
+**Note:** Project screenshot or image should have all sides equal. Full names of mentors, team lead and members should be linked to their respective Github profile. In the case of teams, you don't have to be the one to fill all their names. You can create the table row, add your name and send team members to come fill it up themselves. It will be a way of helping them practice contributing to a Github organisation or repo that is not theirs generally. Also note that once it is reported that the link to your project is broken, it will be removed from the gallery. 
+```
+| Project screenshot | team name | <ul>li tags containing hosted project and github repo</ul> | <ul>li tags containing full name of mentors or team leads </ul> | <ul>li tags containing name of participating members</ul> |
+```
+
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](https://github.com/gads-projects/doc/blob/main/contributor.md)
 
 ## Google Africa Developer Scholarship project gallery doc
