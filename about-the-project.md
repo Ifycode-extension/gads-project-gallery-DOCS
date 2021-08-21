@@ -4,6 +4,9 @@
 
 
 * Create a project gallery where learners can display projects made during GADS program.
+- [project gallery](https://github.com/gads-projects/gallery)
+
+
 * Encourage ourselves and GADS learners in subsequent years by the projects we make.
 * Simulate a real world open source project or organisation where anyone is welcome to contribute.
 * Practice use of Github, alongside other people and with no code writing involved.
