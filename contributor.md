@@ -1,7 +1,7 @@
 # All contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks to these wonderful people for improving the GADS project gallery and doc project. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [emoji key](https://allcontributors.org/docs/en/emoji-key) for what icons mean.
@@ -21,6 +21,7 @@ Thanks to these wonderful people for improving the GADS project gallery and doc 
     <td align="center"><a href="http://keithanphilander.com"><img src="https://avatars.githubusercontent.com/u/29425128?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Keithan Philander</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=KeithanPhilander" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/charlesadah123"><img src="https://avatars.githubusercontent.com/u/23029266?v=4?s=100" width="100px;" alt=""/><br /><sub><b>charlesadah123</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=charlesadah123" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/k-man-null"><img src="https://avatars.githubusercontent.com/u/74916504?v=4?s=100" width="100px;" alt=""/><br /><sub><b>k-man-null</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=k-man-null" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/damaestro165"><img src="https://avatars.githubusercontent.com/u/29485257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Abayomi David</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=damaestro165" title="Documentation">📖</a></td>
   </tr>
 </table>
 
