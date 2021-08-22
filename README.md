@@ -1,6 +1,6 @@
 # GADS project gallery
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](https://github.com/gads-projects/doc/blob/main/contributor.md)
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](https://github.com/gads-projects/doc/blob/main/contributor.md)
 
 ## Google Africa Developer Scholarship project gallery doc
 
