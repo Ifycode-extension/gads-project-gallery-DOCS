@@ -30,3 +30,5 @@ Please note that the projects you add MUST be projects made during the GADS prog
 - From your fork, [create a new branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) and give it your preferred name
 - Edit the files and add your project in your fork following the instructions on the [gallery repo readme](https://github.com/gads-projects/gallery). Make sure you are in the new branch you created when editing
 - [Send a pull request](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
+
+dummy text
