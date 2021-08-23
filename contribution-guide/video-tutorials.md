@@ -1,6 +1,8 @@
 # Video tutorials
 
-Youtube video embed\(s\) go here
+## Editing the doc and gallery - video tutorial
+
+{% embed url="https://www.youtube.com/watch?v=5nd-qoJaAH8" %}
 
 ## General instructions for making a video tutorial
 
