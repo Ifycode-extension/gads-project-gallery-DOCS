@@ -86,9 +86,18 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "kweku-annan",
+      "name": "Emmanuel Adu Saah",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88604123?v=4",
+      "profile": "https://github.com/kweku-annan",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
-  "contributorsPerLine": 5,
+  "contributorsPerLine": 4,
   "projectName": "doc",
   "projectOwner": "gads-projects",
   "repoType": "github",
