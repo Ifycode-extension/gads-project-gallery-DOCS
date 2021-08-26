@@ -95,6 +95,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "cyriacusifeanyi",
+      "name": "Ifeanyi Cyriacus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26656017?v=4",
+      "profile": "http://cyriacusifeanyi.github.io",
+      "contributions": [
+        "mentoring",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
