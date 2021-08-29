@@ -107,6 +107,15 @@
         "mentoring",
         "doc"
       ]
+    },
+    {
+      "login": "Qudusayo",
+      "name": "Ayoola Abdulqudus",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51055890?v=4",
+      "profile": "https://qudusayo.me",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
