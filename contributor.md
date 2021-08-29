@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Thanks to these wonderful people for improving the GADS project gallery and documentation. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [emoji key](https://allcontributors.org/docs/en/emoji-key) for what icons mean.
+Thanks to these wonderful people for improving the GADS [project gallery](https://github.com/gads-projects/gallery) and [documentation](https://obiagba-mary.gitbook.io/gads-projects). This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [emoji key](https://allcontributors.org/docs/en/emoji-key) for what icons mean.
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -18,7 +18,7 @@ Thanks to these wonderful people for improving the GADS project gallery and docu
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/kaylezy"><img src="https://avatars.githubusercontent.com/u/31227288?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Olakunle Hassan</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=kaylezy" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://keithanphilander.com"><img src="https://avatars.githubusercontent.com/u/29425128?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Keithan Philander</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=KeithanPhilander" title="Documentation">📖</a> <a href="#video-KeithanPhilander" title="Videos">📹</a> <a href="#design-KeithanPhilander" title="Design">🎨</a></td>
+    <td align="center"><a href="http://keithanphilander.com"><img src="https://avatars.githubusercontent.com/u/29425128?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Keithan Philander</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=KeithanPhilander" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/charlesadah123"><img src="https://avatars.githubusercontent.com/u/23029266?v=4?s=100" width="100px;" alt=""/><br /><sub><b>charlesadah123</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=charlesadah123" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/k-man-null"><img src="https://avatars.githubusercontent.com/u/74916504?v=4?s=100" width="100px;" alt=""/><br /><sub><b>k-man-null</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=k-man-null" title="Documentation">📖</a></td>
   </tr>
