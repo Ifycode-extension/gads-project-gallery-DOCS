@@ -143,6 +143,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "biggietiny",
+      "name": "Tobiloba",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5311781?v=4",
+      "profile": "https://github.com/biggietiny",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
