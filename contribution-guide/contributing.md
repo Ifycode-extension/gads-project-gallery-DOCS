@@ -25,7 +25,7 @@ You can locate the file you want to edit in the [doc repo](https://github.com/ga
 
 ## Adding your project to the gallery
 
-Please note that the projects you add MUST be projects made during the GADS program. Projects can be submitted by learners or mentors, can be an individual project or team project and can be projects given by the GADS team or your peer learning group mentors. Feel free to add your projects to the gallery if your projects meet those requirements. Follow these steps to add your projects:
+Please note that the projects you add MUST be projects made during the GADS program. Projects can be submitted by learners or mentors, can be an individual project or team project and can be projects given by the GADS team or your peer learning group mentors. Feel free to add your projects to the gallery if your projects meet those requirements. [Watch video tutorial](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/video-tutorials) or follow these steps to add your projects to the gallery:
 
 * Fork the [the project gallery repo](https://github.com/gads-projects/gallery) \(if you haven't\)
 * From your fork, [create a new branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) and give it your preferred name
