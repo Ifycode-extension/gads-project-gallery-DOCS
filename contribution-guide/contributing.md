@@ -12,7 +12,7 @@ Once you have made a contribution, you will be added to the [GADS contributors](
 * Get assigned to issues or tasks present on [the issues page](https://github.com/gads-projects/doc/issues)
 * Update outdated information in the [GADS project gallery doc](https://github.com/gads-projects/doc)
 * Suggest and/or add content, sections or page to the GADS project gallery doc
-* Report and fix broken links, grammatical or typographical errors in either the GADS project gallery doc or the project gallery repo
+*  [Create an issue](https://github.com/gads-projects/doc/issues) to report and fix problems such as broken links, grammatical or typographical errors present in the doc repo or the gallery repo
 
 ## Editing the project gallery doc
 
