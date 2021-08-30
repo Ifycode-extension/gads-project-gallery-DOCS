@@ -116,6 +116,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Ismail-Opatola",
+      "name": "Ismail Opatola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29990151?v=4",
+      "profile": "https://opatola.net/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 4,
