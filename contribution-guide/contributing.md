@@ -17,7 +17,8 @@ Once you have made a contribution, you will be added to the [GADS contributors](
 
 ## Editing the project gallery doc
 
-You can locate the file you want to edit in the [doc repo](https://github.com/gads-projects/doc) by manually searching for the file in the doc repo or via the edit on Github button on the [Gitbook doc](https://obiagba-mary.gitbook.io/gads-projects). Go to a particular page on the Gitbook doc, then click on the edit on Github button \(or github icon in the case of smaller devices\) to take you to the exact file to edit. Follow these steps to edit the file since you cannot directly make changes to the repo:
+You can locate the file you want to edit in the [doc repo](https://github.com/gads-projects/doc) by manually searching for the file in the doc repo or via the edit on Github button on the [Gitbook doc](https://obiagba-mary.gitbook.io/gads-projects). Go to a particular page on the Gitbook doc, then click on the edit on Github button \(or github icon in the case of smaller devices\) to take you to the exact file to edit. [Watch video tutorial](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/video-tutorials) or follow these steps to edit the file since you cannot directly make changes to the repo:
+
 
 * Fork the [doc repo](https://github.com/gads-projects/doc) \(if you haven't\)
 * From your fork, [create a new branch](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) and give it your preferred name
