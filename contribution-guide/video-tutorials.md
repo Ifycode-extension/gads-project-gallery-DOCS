@@ -1,6 +1,6 @@
 # Video tutorials
 
-## Editing the doc and gallery - video tutorial
+## Editing the documentation and gallery
 
 {% embed url="https://youtu.be/2X1FjFqIwIY" caption="" %}
 
