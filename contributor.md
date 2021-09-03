@@ -1,7 +1,7 @@
 # All contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks to these wonderful people for improving the GADS [project gallery](https://github.com/gads-projects/gallery) and [documentation](https://obiagba-mary.gitbook.io/gads-projects). This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [emoji key](https://allcontributors.org/docs/en/emoji-key) for what icons mean.
@@ -32,9 +32,10 @@ Thanks to these wonderful people for improving the GADS [project gallery](https:
     <td align="center"><a href="https://github.com/Olaoluwadunni"><img src="https://avatars.githubusercontent.com/u/72369149?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Oluwatimileyin Akinpelu</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=Olaoluwadunni" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/biggietiny"><img src="https://avatars.githubusercontent.com/u/5311781?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tobiloba</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=biggietiny" title="Documentation">📖</a></td>
     <td align="center"><a href="http://akintoluvic.com"><img src="https://avatars.githubusercontent.com/u/32616421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vick Greenfields</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=akintoluvic" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/Zaid837"><img src="https://avatars.githubusercontent.com/u/55021556?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zaid Oluwatamilore</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=Zaid837" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/WNjoroge-glitch"><img src="https://avatars.githubusercontent.com/u/65223163?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Wanjiku Njoroge</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=WNjoroge-glitch" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/Zaid837"><img src="https://avatars.githubusercontent.com/u/55021556?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Zaid Oluwatamilore</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=Zaid837" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/charlesadah123"><img src="https://avatars.githubusercontent.com/u/23029266?v=4?s=100" width="100px;" alt=""/><br /><sub><b>charlesadah123</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=charlesadah123" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/k-man-null"><img src="https://avatars.githubusercontent.com/u/74916504?v=4?s=100" width="100px;" alt=""/><br /><sub><b>k-man-null</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=k-man-null" title="Documentation">📖</a></td>
   </tr>
