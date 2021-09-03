@@ -15,7 +15,7 @@ Once you have made a contribution, you will be added to the [GADS contributors](
 * Suggest and/or add content, sections or page to the GADS project gallery doc
 *  [Create an issue](https://github.com/gads-projects/doc/issues) to report and fix problems such as broken links, grammatical or typographical errors present in the doc repo or the gallery repo
 
-## Editing the project gallery doc
+## Editing the documentation
 
 You can locate the file you want to edit in the [doc repo](https://github.com/gads-projects/doc) by manually searching for the file in the doc repo or via the edit on Github button on the [Gitbook doc](https://obiagba-mary.gitbook.io/gads-projects). Go to a particular page on the Gitbook doc, then click on the edit on Github button \(or github icon in the case of smaller devices\) to take you to the exact file to edit. [Watch video tutorial](https://obiagba-mary.gitbook.io/gads-projects/contribution-guide/video-tutorials) or follow these steps to edit the file since you cannot directly make changes to the repo:
 
