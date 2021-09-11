@@ -1,7 +1,7 @@
 # All contributors ✨
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks to these wonderful people for improving the GADS [project gallery](https://github.com/gads-projects/gallery) and [documentation](https://obiagba-mary.gitbook.io/gads-projects). This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [emoji key](https://allcontributors.org/docs/en/emoji-key) for what icons mean.
@@ -41,6 +41,7 @@ Thanks to these wonderful people for improving the GADS [project gallery](https:
     <td align="center"><a href="https://github.com/k-man-null"><img src="https://avatars.githubusercontent.com/u/74916504?v=4?s=100" width="100px;" alt=""/><br /><sub><b>k-man-null</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=k-man-null" title="Documentation">📖</a></td>
   </tr>
   <tr>
+    <td align="center"><a href="https://github.com/olusanwo"><img src="https://avatars.githubusercontent.com/u/32881187?v=4?s=100" width="100px;" alt=""/><br /><sub><b>olusanwo</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=olusanwo" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/simplyenny"><img src="https://avatars.githubusercontent.com/u/81021945?v=4?s=100" width="100px;" alt=""/><br /><sub><b>simplyenny</b></sub></a><br /><a href="https://github.com/gads-projects/doc/commits?author=simplyenny" title="Documentation">📖</a></td>
   </tr>
 </table>
