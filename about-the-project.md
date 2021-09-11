@@ -1,6 +1,6 @@
 # About the project
 
-This documentation guide is a Google Africa Developer Scholarship \(2021\) project made by the [MWS-030 learning phase 1 peer learning group, together with other interested learners and mentors from other peer learning groups](https://github.com/gads-projects/doc/blob/main/contributor.md). Contributions are welcome from any GADS learner or mentor. The project is built to help in the following areas:
+The Google Africa Developer Scholarship (GADS) project gallery and documentation project is made by the [MWS-030 learning phase 1 Peer Learning Group \(2021 cohort\), together with interested learners and mentors from other Peer Learning Groups](https://github.com/gads-projects/doc/blob/main/contributor.md). Contributions are welcome from any GADS learner or mentor. The project is built to help in the following areas:
 
 * Create a [project gallery](https://github.com/gads-projects/gallery) where learners can display projects made during GADS program.
 * Encourage ourselves and GADS learners in subsequent years by the projects we make.
